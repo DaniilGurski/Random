@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\bin\Debug\net9.0\random.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\bin\Debug\net9.0\random.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\bin\Debug\net9.0\random.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\bin\Debug\net9.0\random.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\bin\Debug\net9.0\random.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\refint\random.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\random.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\random\random\obj\Debug\net9.0\ref\random.dll
